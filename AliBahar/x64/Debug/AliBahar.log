@@ -1,0 +1,11 @@
+﻿  Address.cpp
+  Costumer.cpp
+  Feedback.cpp
+  Main.cpp
+d:\user\desktop\githubprojects\e-commerce-system-master\alibahar\main.cpp(6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Order.cpp
+  Product.cpp
+  System.cpp
+  Vendor.cpp
+  Generating Code...
+  AliBahar.vcxproj -> D:\user\Desktop\githubProjects\E-commerce-system-master\x64\Debug\AliBahar.exe
